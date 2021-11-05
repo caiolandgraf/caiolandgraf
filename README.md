@@ -1,7 +1,7 @@
 ## Oiii meu nome é Caio Landgraf, sou engenheiro jr. de software!
 <div align="center">
   <a href="https://github.com/caiolandgraf">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caiolandgraf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="170em" style="border: none;" src="https://github-readme-stats.vercel.app/api?username=caiolandgraf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolandgraf&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
