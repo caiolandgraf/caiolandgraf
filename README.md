@@ -12,7 +12,7 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Caio-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-  <img align="right" alt="Caio-pic" height="150" src="https://media.discordapp.net/attachments/870253415144505394/906234062337880105/rounded-in-photoretrica.png">
+  <img align="right" alt="Caio-pic" height="150" src="https://media.discordapp.net/attachments/932639755131310133/946889492709650512/Sem_titulo.png?width=676&height=676">
 </div>
   
   ##
