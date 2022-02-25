@@ -12,12 +12,15 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Caio-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Caio-Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
+  <img align="center" alt="Caio-Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
   <img align="right" alt="Caio-pic" height="150" src="https://media.discordapp.net/attachments/932639755131310133/946889492709650512/Sem_titulo.png?width=676&height=676">
 </div>
   
   ##
  
 <div> 
+  <a href="https://discord.com" target="_blank" title="nogg#0001"><img src="https://media.discordapp.net/attachments/932639755131310133/946893965351878696/Sem_titulo1.jpg" width="138" target="_blank"></a>
   <a href="https://instagram.com/eu.caiolandgraf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%13E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=4586ff" target="_blank"></a>
   <a href = "mailto:eu.caiolandgraf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
