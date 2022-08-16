@@ -20,7 +20,6 @@
   ##
  
 <div> 
-  <a href="https://discord.com" target="_blank" title="nogg#0001"><img src="https://media.discordapp.net/attachments/932639755131310133/946893965351878696/Sem_titulo1.jpg" width="138" target="_blank"></a>
   <a href="https://instagram.com/eu.caiolandgraf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%13E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=4586ff" target="_blank"></a>
   <a href = "mailto:eu.caiolandgraf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
