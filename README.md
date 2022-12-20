@@ -15,7 +15,7 @@
   <img align="center" alt="Caio-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   <img align="center" alt="Caio-Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
   <img align="center" alt="Caio-Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-  <img align="right" alt="Caio-pic" height="150" src=".github/octocat.png">
+  <img align="right" alt="Caio-pic" height="150" src=".github/rounded_corners (1).png">
 </div>
   
   ##
