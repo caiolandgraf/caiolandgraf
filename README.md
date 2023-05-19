@@ -1,4 +1,4 @@
-## Oiii meu nome é Caio Landgraf, sou engenheiro de software e amante de tecnologia WEB!
+## Oiii seja bem vindo! Eu sou engenheiro de software e amante de tecnologia WEB!
 <div align="center">
   <a href="https://github.com/caiolandgraf">
 <img height="170em" style="border: none !important;" src="https://github-readme-stats.vercel.app/api?username=caiolandgraf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
