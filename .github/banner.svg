@@ -1,0 +1,145 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0020"/>
+      <stop offset="50%" style="stop-color:#1a0040"/>
+      <stop offset="100%" style="stop-color:#0d0020"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59f7;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#9b59f7;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="neon">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softneon">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- Grid lines horizontal -->
+  <g stroke="#3d1280" stroke-width="0.4" opacity="0.5">
+    <line x1="0" y1="30" x2="900" y2="30"/>
+    <line x1="0" y1="60" x2="900" y2="60"/>
+    <line x1="0" y1="90" x2="900" y2="90"/>
+    <line x1="0" y1="120" x2="900" y2="120"/>
+    <line x1="0" y1="150" x2="900" y2="150"/>
+    <line x1="0" y1="180" x2="900" y2="180"/>
+  </g>
+
+  <!-- Grid lines vertical -->
+  <g stroke="#3d1280" stroke-width="0.4" opacity="0.5">
+    <line x1="60"  y1="0" x2="60"  y2="220"/>
+    <line x1="120" y1="0" x2="120" y2="220"/>
+    <line x1="180" y1="0" x2="180" y2="220"/>
+    <line x1="240" y1="0" x2="240" y2="220"/>
+    <line x1="300" y1="0" x2="300" y2="220"/>
+    <line x1="360" y1="0" x2="360" y2="220"/>
+    <line x1="420" y1="0" x2="420" y2="220"/>
+    <line x1="480" y1="0" x2="480" y2="220"/>
+    <line x1="540" y1="0" x2="540" y2="220"/>
+    <line x1="600" y1="0" x2="600" y2="220"/>
+    <line x1="660" y1="0" x2="660" y2="220"/>
+    <line x1="720" y1="0" x2="720" y2="220"/>
+    <line x1="780" y1="0" x2="780" y2="220"/>
+    <line x1="840" y1="0" x2="840" y2="220"/>
+  </g>
+
+  <!-- Scattered pixel squares neon -->
+  <!-- bright purple neon pixels -->
+  <g filter="url(#neon)">
+    <!-- top area -->
+    <rect x="42" y="12" width="8" height="8" fill="none" stroke="#c084fc" stroke-width="1.2"/>
+    <rect x="44" y="14" width="4" height="4" fill="#c084fc" opacity="0.8"/>
+
+    <rect x="130" y="8" width="8" height="8" fill="none" stroke="#9b59f7" stroke-width="1.2"/>
+    <rect x="132" y="10" width="4" height="4" fill="#9b59f7" opacity="0.6"/>
+
+    <rect x="820" y="15" width="8" height="8" fill="none" stroke="#c084fc" stroke-width="1.2"/>
+    <rect x="822" y="17" width="4" height="4" fill="#c084fc" opacity="0.8"/>
+
+    <rect x="855" y="42" width="8" height="8" fill="none" stroke="#7c3aed" stroke-width="1.2"/>
+    <rect x="857" y="44" width="4" height="4" fill="#7c3aed" opacity="0.7"/>
+
+    <rect x="760" y="8" width="6" height="6" fill="none" stroke="#e879f9" stroke-width="1"/>
+    <rect x="762" y="10" width="2" height="2" fill="#e879f9"/>
+
+    <!-- left side -->
+    <rect x="12" y="72" width="10" height="10" fill="none" stroke="#9b59f7" stroke-width="1.5"/>
+    <rect x="14" y="74" width="6" height="6" fill="#9b59f7" opacity="0.5"/>
+
+    <rect x="25" y="105" width="6" height="6" fill="none" stroke="#c084fc" stroke-width="1"/>
+    <rect x="27" y="107" width="2" height="2" fill="#c084fc"/>
+
+    <rect x="8" y="145" width="8" height="8" fill="none" stroke="#7c3aed" stroke-width="1.2"/>
+    <rect x="10" y="147" width="4" height="4" fill="#7c3aed" opacity="0.7"/>
+
+    <!-- right side -->
+    <rect x="870" y="90" width="10" height="10" fill="none" stroke="#9b59f7" stroke-width="1.5"/>
+    <rect x="872" y="92" width="6" height="6" fill="#9b59f7" opacity="0.5"/>
+
+    <rect x="880" y="140" width="6" height="6" fill="none" stroke="#c084fc" stroke-width="1"/>
+    <rect x="882" y="142" width="2" height="2" fill="#c084fc"/>
+
+    <rect x="862" y="170" width="8" height="8" fill="none" stroke="#e879f9" stroke-width="1.2"/>
+    <rect x="864" y="172" width="4" height="4" fill="#e879f9" opacity="0.7"/>
+
+    <!-- bottom area -->
+    <rect x="50" y="195" width="8" height="8" fill="none" stroke="#9b59f7" stroke-width="1.2"/>
+    <rect x="52" y="197" width="4" height="4" fill="#9b59f7" opacity="0.6"/>
+
+    <rect x="200" y="200" width="6" height="6" fill="none" stroke="#c084fc" stroke-width="1"/>
+    <rect x="202" y="202" width="2" height="2" fill="#c084fc"/>
+
+    <rect x="700" y="198" width="8" height="8" fill="none" stroke="#7c3aed" stroke-width="1.2"/>
+    <rect x="702" y="200" width="4" height="4" fill="#7c3aed" opacity="0.7"/>
+
+    <rect x="800" y="195" width="6" height="6" fill="none" stroke="#c084fc" stroke-width="1"/>
+    <rect x="802" y="197" width="2" height="2" fill="#c084fc"/>
+
+    <!-- scattered mid -->
+    <rect x="75" y="162" width="6" height="6" fill="none" stroke="#9b59f7" stroke-width="1"/>
+    <rect x="77" y="164" width="2" height="2" fill="#9b59f7"/>
+
+    <rect x="820" y="68" width="6" height="6" fill="none" stroke="#c084fc" stroke-width="1"/>
+    <rect x="822" y="70" width="2" height="2" fill="#c084fc"/>
+  </g>
+
+  <!-- Glow overlay center -->
+  <ellipse cx="450" cy="110" rx="320" ry="80" fill="url(#glow)" opacity="0.4"/>
+
+  <!-- Main title glow layer -->
+  <text x="450" y="108" font-family="'Courier New', monospace" font-size="58" font-weight="bold"
+        fill="#c084fc" opacity="0.25" text-anchor="middle" filter="url(#softneon)">Caio Landgraf</text>
+
+  <!-- Main title -->
+  <text x="450" y="108" font-family="'Courier New', monospace" font-size="58" font-weight="bold"
+        fill="#ffffff" text-anchor="middle" filter="url(#neon)">Caio Landgraf</text>
+
+  <!-- Subtitle decorators -->
+  <text x="310" y="148" font-family="'Courier New', monospace" font-size="16"
+        fill="#7c3aed" text-anchor="middle">&lt;</text>
+  <text x="590" y="148" font-family="'Courier New', monospace" font-size="16"
+        fill="#7c3aed" text-anchor="middle">/&gt;</text>
+
+  <!-- Subtitle glow -->
+  <text x="450" y="148" font-family="'Courier New', monospace" font-size="16"
+        fill="#9b59f7" opacity="0.4" text-anchor="middle" filter="url(#softneon)">Full Stack Developer</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="148" font-family="'Courier New', monospace" font-size="16"
+        fill="#c084fc" text-anchor="middle">Full Stack Developer</text>
+
+  <!-- Bottom neon line -->
+  <line x1="100" y1="175" x2="800" y2="175" stroke="#7c3aed" stroke-width="0.8" opacity="0.6"/>
+  <line x1="200" y1="178" x2="700" y2="178" stroke="#9b59f7" stroke-width="0.4" opacity="0.4"/>
+
+  <!-- Bottom tagline -->
+  <text x="450" y="196" font-family="'Courier New', monospace" font-size="11"
+        fill="#7c3aed" text-anchor="middle" opacity="0.8">🚀 never stop!</text>
+</svg>
