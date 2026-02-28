@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4586ff&height=200&section=header&text=Caio%20Landgraf&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%F0%9F%9A%80%20never%20stop!&descSize=18&descAlignY=58&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4586FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%7C+%F0%9F%9A%80+never+stop!;TypeScript+%E2%80%A2+Go+%E2%80%A2+React+%E2%80%A2+Node.js" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/caiolandgraf/caiolandgraf/68baf741d10f561f06ff0554babb1b9204b6f4b8/.github/banner.svg" width="100%" alt="Caio Landgraf" />
 </div>
 
 <br/>
@@ -16,9 +12,9 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://eicode.com.br">
-    <img src="https://img.shields.io/badge/eicode.com.br-4586FF?style=flat-square&logo=internet-explorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/eicode.com.br-9b59f7?style=flat-square&logo=internet-explorer&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=caiolandgraf&style=flat-square&color=4586ff&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=caiolandgraf&style=flat-square&color=9b59f7&label=profile+views" />
 </div>
 
 ---
@@ -63,7 +59,7 @@ const caio: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=caiolandgraf&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4586ff&fire=4586ff&currStreakLabel=4586ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=caiolandgraf&theme=github-dark-blue&hide_border=true&background=0d1117&ring=9b59f7&fire=9b59f7&currStreakLabel=9b59f7" />
 </div>
 
 ---
@@ -84,5 +80,5 @@ const caio: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4586ff&height=100&section=footer" />
+  <img src="https://raw.githubusercontent.com/caiolandgraf/caiolandgraf/68baf741d10f561f06ff0554babb1b9204b6f4b8/.github/footer.svg" width="100%" alt="footer" />
 </div>
