@@ -1,31 +1,88 @@
-## Oiii seja bem vindo! Eu sou engenheiro de software e amante de tecnologia WEB!
 <div align="center">
-  <a href="https://github.com/caiolandgraf">
-<img height="170em" style="border: none !important;" src="https://github-readme-stats.vercel.app/api?username=caiolandgraf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolandgraf&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4586ff&height=200&section=header&text=Caio%20Landgraf&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%F0%9F%9A%80%20never%20stop!&descSize=18&descAlignY=58&animation=fadeIn" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Caio-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Caio-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-  <img align="center" alt="Caio-Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
-  <img align="center" alt="Caio-Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-  <img align="right" alt="Caio-pic" height="150" src=".github/photo.png">
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4586FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%7C+%F0%9F%9A%80+never+stop!;TypeScript+%E2%80%A2+Go+%E2%80%A2+React+%E2%80%A2+Node.js" alt="Typing SVG" />
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/eu.caiolandgraf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%13E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=4586ff" target="_blank"></a>
-  <a href = "mailto:eu.caiolandgraf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/eu.caiolandgraf" target="_blank"><img src="https://img.shields.io/badge/-My X (Twitter)-%13E4405F?style=for-the-badge&logo=x&logoColor=white&color=4586ff" target="_blank"></a>
-  
- 
-  ![Snake animation](https://github.com/caiolandgraf/caiolandgraf/blob/output/github-contribution-grid-snake.svg)
- 
-</div> 
+
+<br/>
+
+<div align="center">
+  <a href="https://instagram.com/eu.caiolandgraf">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:eu.caiolandgraf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://eicode.com.br">
+    <img src="https://img.shields.io/badge/eicode.com.br-4586FF?style=flat-square&logo=internet-explorer&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=caiolandgraf&style=flat-square&color=4586ff&label=profile+views" />
+</div>
+
+---
+
+## 👨‍💻 About me
+
+```typescript
+const caio: Developer = {
+  role:       "Full Stack Developer",
+  company:    "EiCode",
+  location:   "Massachusetts, Boston 🇧🇷",
+  languages:  ["TypeScript", "Go", "JavaScript", "Elixir", "PHP"],
+  stack:      ["React", "Vue", "Node.js", "Laravel", "Phoenix"],
+  mantra:     "🚀 never stop!",
+  currentFocus: "Building elegant tools in Go & TypeScript",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Tools**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=caiolandgraf&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4586ff&fire=4586ff&currStreakLabel=4586ff" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**gest**](https://github.com/caiolandgraf/gest) ⭐ 6 | Jest-inspired testing framework for Go — beautiful output, zero deps | `Go` |
+| [**result-pattern**](https://github.com/caiolandgraf/result-pattern) ⭐ 7 | Safe and elegant error handling pattern for TypeScript | `TypeScript` |
+| [**pam**](https://github.com/caiolandgraf/pam) ⭐ 4 | Minimal CLI for managing SQL queries across multiple databases | `Go` |
+| [**grove**](https://github.com/caiolandgraf/grove) | CLI that scaffolds production-ready Go projects | `Go` |
+
+---
+
+<div align="center">
+  <img src="https://github.com/caiolandgraf/caiolandgraf/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4586ff&height=100&section=footer" />
+</div>
