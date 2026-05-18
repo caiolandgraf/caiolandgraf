@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/caiolandgraf/caiolandgraf/68baf741d10f561f06ff0554babb1b9204b6f4b8/.github/banner.svg" width="100%" alt="Caio Landgraf" />
+    <img src="https://github.com/caiolandgraf/caiolandgraf/blob/main/.github/banner-2.png?raw=true" width="100%" alt="Caio Landgraf" />
 </div>
 
 <br/>
