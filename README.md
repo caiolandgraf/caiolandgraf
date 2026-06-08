@@ -23,10 +23,10 @@
 
 ```typescript
 const caio: Developer = {
-  role:       "Full Stack Developer",
+  role:       "Backend Senior Developer scalability and performance expert.",
   company:    "EiCode",
   location:   "Massachusetts, Boston 🇧🇷",
-  languages:  ["TypeScript", "Go", "JavaScript", "Elixir", "PHP"],
+  languages:  ["TypeScript", "Go", "Ruby", "JavaScript", "Elixir", "PHP"],
   stack:      ["React", "Vue", "Node.js", "Laravel", "Phoenix"],
   mantra:     "🚀 never stop!",
   currentFocus: "Building elegant tools in Go & TypeScript",
