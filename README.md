@@ -11,8 +11,8 @@
   <a href="mailto:eu.caiolandgraf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://eicode.com.br">
-    <img src="https://img.shields.io/badge/eicode.com.br-9b59f7?style=flat-square&logo=internet-explorer&logoColor=white" />
+  <a href="https://caio.bunx.io">
+    <img src="https://img.shields.io/badge/caio.bunx.io-9b59f7?style=flat-square&logo=internet-explorer&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=caiolandgraf&style=flat-square&color=9b59f7&label=profile+views" />
 </div>
