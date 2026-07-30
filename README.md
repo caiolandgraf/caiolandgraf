@@ -26,10 +26,10 @@ const caio: Developer = {
   role:       "Backend Senior Developer scalability and performance expert.",
   company:    "EiCode",
   location:   "Massachusetts, Boston 🇧🇷",
-  languages:  ["TypeScript", "Go", "Ruby", "JavaScript", "Elixir", "PHP"],
-  stack:      ["React", "Vue", "Node.js", "Laravel", "Phoenix"],
+  languages:  ["TypeScript", "Rust", "Go", "Ruby", "JavaScript", "Elixir", "PHP"],
+  stack:      ["Rust", "Go", "Node.js", "Ruby", "Vue"],
   mantra:     "🚀 never stop!",
-  currentFocus: "Building elegant tools in Go & TypeScript",
+  currentFocus: "Building elegant tools in Go & Rust",
 };
 ```
 
